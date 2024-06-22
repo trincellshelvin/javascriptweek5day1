@@ -1,7 +1,7 @@
-function dogsChanger() {
-    myPetHeader.innerHTML = "Dogs";
-    myPetParagraph.innerHTML = "I like dogs.";
+function cookiesChanger() {
+    myCandyHeader.innerHTML = "Cookies";
+    myCandyParagraph.innerHTML = "I like to make cookies from scratch too.";
   
   }
   
-  myPetButton.onclick = dogsChanger;
+  myCookiesButton.onclick = cookiesChanger;
