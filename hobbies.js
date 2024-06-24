@@ -1,7 +1,7 @@
-function cookiesChanger() {
-  myCandyHeader.innerHTML = "Cookies";
-  myCandyParagraph.innerHTML = "I like to make cookies from scratch too.";
+function workChanger() {
+  myHobbiesHeader.innerHTML = "Work";
+  myHobbiesParagraph.innerHTML = "Is a reflection of whom I am";
 
 }
 
-myCookiesButton.onclick = cookiesChanger;
+myWorkButton.onclick = workChanger;
